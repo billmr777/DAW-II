@@ -1,4 +1,4 @@
-# Proyecto: Servidor de Aplicaciones Tomcat
+# Servidor de aplicacións Tomcat
 
 ## Grado de completitud
 - Secciones completadas:

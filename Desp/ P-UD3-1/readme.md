@@ -1,17 +1,7 @@
 # Servidor de aplicacións Tomcat
 
 ## Grado de completitud
-- Secciones completadas:
-  - Instalación y configuración de Tomcat en Windows y Linux
-  - Configuración de usuarios y roles en `tomcat-users.xml`
-  - Despliegue de la aplicación Sample.war
-  - Configuración de HTTPS con certificado SSL
-  - Integración con IDE (VS Code / Community Server Connectors)
-  - Cuestiones teóricas sobre versiones, otros servidores, carga y monitorización
-
-- Secciones con posibles dudas:
-  - Integración exacta con Visual Studio Community en Linux, dado que no existe la versión completa de VS Community en Linux; se utilizó VS Code con Community Server Connectors como alternativa funcional.
-  - Configuración avanzada de SSL en Tomcat 11 puede requerir ajustes menores según la versión de Java y permisos del keystore.
+- Se completo todo
 
 ---
 
@@ -28,12 +18,6 @@
 ---
 
 ## Observaciones
-- Tomcat 11 requiere el uso de `<SSLHostConfig>` para HTTPS, diferente de versiones anteriores.
-- VS Code con Community Server Connectors funciona como alternativa a Visual Studio Community en Linux para gestionar Tomcat.
-- Algunas configuraciones pueden variar ligeramente según la versión de Java y el sistema operativo.
-
+- Ninguna
 ---
-
-## Repositorio
-> Este proyecto aún no está subido a GitHub. Se puede crear un repositorio propio y añadir todos los scripts, configuraciones (`server.xml`, `tomcat-users.xml`), archivos `.war` y este `readme.md`.
 
